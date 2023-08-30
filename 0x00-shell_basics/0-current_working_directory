@@ -1,3 +1,2 @@
 #!/bin/bash
-path_nanme= "pwd"
-echo "$path_name"
+echo "pwd"
